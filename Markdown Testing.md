@@ -18,7 +18,7 @@ I can use emojis (super professional) 🐶 🌳 🕶️ 🌠
 - [ ] This will help me feel more productive
 - [x] Especially when I've *actually* done something
 
-I can also create. You should click on [this](https://g.co/kgs/8TX2Gr) to take a break from your work
+I can also add links. You should click on [this](https://g.co/kgs/8TX2Gr) to take a break from your work
 
 1. This is a numbered list.
 2. I know how to make these now
