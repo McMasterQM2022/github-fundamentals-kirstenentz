@@ -26,5 +26,5 @@ I can also add links. You should click on [this](https://g.co/kgs/8TX2Gr) to tak
 
 I can also make footnotes[^1]
 
-[^1] : You can see what I'm referring to here
+[^1]: You can see what I'm referring to here
 
